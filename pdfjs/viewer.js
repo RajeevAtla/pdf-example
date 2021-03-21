@@ -3432,7 +3432,7 @@ var PresentationModeState = {
   FULLSCREEN: 3,
 };
 
-var IGNORE_CURRENT_POSITION_ON_ZOOM = false;
+var IGNORE_CURRENT_POSITION_ON_ZOOM = true;
 var DEFAULT_CACHE_SIZE = 10;
 
 
